@@ -176,3 +176,4 @@ Instagram: <https://instagram.com/creativetimofficial>
 [changelog]: ./CHANGELOG.md
 [version-badge]: https://img.shields.io/badge/version-2.4.1-blue.svg
 # 22_paper-dashboard
+# 23_paper-dashboard
